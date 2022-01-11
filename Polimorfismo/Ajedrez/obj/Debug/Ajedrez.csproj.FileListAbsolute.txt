@@ -1,0 +1,6 @@
+C:\Users\JVIETTI\source\repos\Polimorfismo\Ajedrez\bin\Debug\Ajedrez.dll
+C:\Users\JVIETTI\source\repos\Polimorfismo\Ajedrez\bin\Debug\Ajedrez.pdb
+C:\Users\JVIETTI\source\repos\Polimorfismo\Ajedrez\obj\Debug\Ajedrez.csproj.AssemblyReference.cache
+C:\Users\JVIETTI\source\repos\Polimorfismo\Ajedrez\obj\Debug\Ajedrez.csproj.CoreCompileInputs.cache
+C:\Users\JVIETTI\source\repos\Polimorfismo\Ajedrez\obj\Debug\Ajedrez.dll
+C:\Users\JVIETTI\source\repos\Polimorfismo\Ajedrez\obj\Debug\Ajedrez.pdb

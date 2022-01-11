@@ -1,0 +1,6 @@
+C:\Users\JVIETTI\source\repos\Polimorfismo\Animales\bin\Debug\Animales.dll
+C:\Users\JVIETTI\source\repos\Polimorfismo\Animales\bin\Debug\Animales.pdb
+C:\Users\JVIETTI\source\repos\Polimorfismo\Animales\obj\Debug\Animales.csproj.AssemblyReference.cache
+C:\Users\JVIETTI\source\repos\Polimorfismo\Animales\obj\Debug\Animales.csproj.CoreCompileInputs.cache
+C:\Users\JVIETTI\source\repos\Polimorfismo\Animales\obj\Debug\Animales.dll
+C:\Users\JVIETTI\source\repos\Polimorfismo\Animales\obj\Debug\Animales.pdb

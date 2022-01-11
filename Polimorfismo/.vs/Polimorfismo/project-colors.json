@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "665f6a5e-dbbb-4631-973f-56cf35c3b90e": {
+      "ProjectGuid": "665f6a5e-dbbb-4631-973f-56cf35c3b90e",
+      "DisplayName": "Ajedrez",
+      "ColorIndex": 0
+    },
+    "cc8e05d8-d149-447f-a32a-dcbe4da8a989": {
+      "ProjectGuid": "cc8e05d8-d149-447f-a32a-dcbe4da8a989",
+      "DisplayName": "AjedrezForm",
+      "ColorIndex": 1
+    },
+    "8466fcfe-3110-41da-b73d-3cc0735bebb3": {
+      "ProjectGuid": "8466fcfe-3110-41da-b73d-3cc0735bebb3",
+      "DisplayName": "Animales",
+      "ColorIndex": 2
+    },
+    "c51af607-f389-4cfe-97bd-282f7048f839": {
+      "ProjectGuid": "c51af607-f389-4cfe-97bd-282f7048f839",
+      "DisplayName": "AnimalForm",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

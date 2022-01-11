@@ -1,0 +1,14 @@
+C:\Users\JVIETTI\source\repos\Polimorfismo\AjedrezForm\bin\Debug\AjedrezForm.exe.config
+C:\Users\JVIETTI\source\repos\Polimorfismo\AjedrezForm\bin\Debug\AjedrezForm.exe
+C:\Users\JVIETTI\source\repos\Polimorfismo\AjedrezForm\bin\Debug\AjedrezForm.pdb
+C:\Users\JVIETTI\source\repos\Polimorfismo\AjedrezForm\bin\Debug\Ajedrez.dll
+C:\Users\JVIETTI\source\repos\Polimorfismo\AjedrezForm\bin\Debug\Ajedrez.pdb
+C:\Users\JVIETTI\source\repos\Polimorfismo\AjedrezForm\obj\Debug\AjedrezForm.csproj.AssemblyReference.cache
+C:\Users\JVIETTI\source\repos\Polimorfismo\AjedrezForm\obj\Debug\AjedrezForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\JVIETTI\source\repos\Polimorfismo\AjedrezForm\obj\Debug\AjedrezForm.Form1.resources
+C:\Users\JVIETTI\source\repos\Polimorfismo\AjedrezForm\obj\Debug\AjedrezForm.Properties.Resources.resources
+C:\Users\JVIETTI\source\repos\Polimorfismo\AjedrezForm\obj\Debug\AjedrezForm.csproj.GenerateResource.cache
+C:\Users\JVIETTI\source\repos\Polimorfismo\AjedrezForm\obj\Debug\AjedrezForm.csproj.CoreCompileInputs.cache
+C:\Users\JVIETTI\source\repos\Polimorfismo\AjedrezForm\obj\Debug\AjedrezForm.csproj.CopyComplete
+C:\Users\JVIETTI\source\repos\Polimorfismo\AjedrezForm\obj\Debug\AjedrezForm.exe
+C:\Users\JVIETTI\source\repos\Polimorfismo\AjedrezForm\obj\Debug\AjedrezForm.pdb

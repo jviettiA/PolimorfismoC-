@@ -1,0 +1,14 @@
+C:\Users\JVIETTI\source\repos\Polimorfismo\AnimalForm\bin\Debug\AnimalForm.exe.config
+C:\Users\JVIETTI\source\repos\Polimorfismo\AnimalForm\bin\Debug\AnimalForm.exe
+C:\Users\JVIETTI\source\repos\Polimorfismo\AnimalForm\bin\Debug\AnimalForm.pdb
+C:\Users\JVIETTI\source\repos\Polimorfismo\AnimalForm\bin\Debug\Animales.dll
+C:\Users\JVIETTI\source\repos\Polimorfismo\AnimalForm\bin\Debug\Animales.pdb
+C:\Users\JVIETTI\source\repos\Polimorfismo\AnimalForm\obj\Debug\AnimalForm.csproj.AssemblyReference.cache
+C:\Users\JVIETTI\source\repos\Polimorfismo\AnimalForm\obj\Debug\AnimalForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\JVIETTI\source\repos\Polimorfismo\AnimalForm\obj\Debug\AnimalForm.Form1.resources
+C:\Users\JVIETTI\source\repos\Polimorfismo\AnimalForm\obj\Debug\AnimalForm.Properties.Resources.resources
+C:\Users\JVIETTI\source\repos\Polimorfismo\AnimalForm\obj\Debug\AnimalForm.csproj.GenerateResource.cache
+C:\Users\JVIETTI\source\repos\Polimorfismo\AnimalForm\obj\Debug\AnimalForm.csproj.CoreCompileInputs.cache
+C:\Users\JVIETTI\source\repos\Polimorfismo\AnimalForm\obj\Debug\AnimalForm.csproj.CopyComplete
+C:\Users\JVIETTI\source\repos\Polimorfismo\AnimalForm\obj\Debug\AnimalForm.exe
+C:\Users\JVIETTI\source\repos\Polimorfismo\AnimalForm\obj\Debug\AnimalForm.pdb
